@@ -1,3 +1,6 @@
+[Open in MATLAB Online]
+https://matlab.mathworks.com/open/github/v1?repo=bhoomipatil1306-gif/HUFFMAN-CODING-FOR-TEXT-COMPRESSION&file=huffman_transmitter_receiver.m
+
 # Huffman Text Compression
 
 A MATLAB-based implementation of **Huffman Coding for lossless text compression**.
